@@ -1,0 +1,19 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-registrars",
+  "name": "porkbun",
+  "license": "MIT",
+  "category": "domains",
+  "description": {
+    "name": "Porkbun",
+    "tagline": "Porkbun domain registrar integration for WHMCS.",
+    "long": "Manage your Porkbun domains directly from WHMCS. Supports nameserver management, DNS records, and domain information retrieval."
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://porkbun.com/",
+    "docs_url": "https://porkbun.com/api/json/v3/documentation"
+  }
+}
