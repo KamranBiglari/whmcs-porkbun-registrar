@@ -26,7 +26,7 @@
 
 The module files should already be in place at:
 ```
-/home/panelwebdata/public_html/modules/registrars/porkbun/
+/home/USERNAME/public_html/modules/registrars/porkbun/
 ```
 
 Files included:
@@ -34,7 +34,7 @@ Files included:
 - `porkbunapi.php` - API helper class
 - `whmcs.json` - Module metadata
 - `index.php` - Security file
-- `README.md` - Documentation
+- `README.porkbun.md` - Documentation
 - `INSTALLATION.md` - This file
 
 ## Step 3: Activate the Module in WHMCS
